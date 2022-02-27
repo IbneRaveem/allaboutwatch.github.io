@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+}
+.nav1{
+			float: top-center;
+			background: rgb(0,0,0,0.8);
+			color:#fff;
+			margin:0px;
+			padding:17px;
+			position:fixed;
+			width:100%;
+
+}
+.nav1 a{
+	float:top-center;                                
+	margin:80px;
+	text-decoration:none;
+	color:#fff;
+}
+#Watch{
+	padding:80px;
+	text-align:center;
+}
+#Watch1{
+	padding:90px;
+	text-align:center;
+}
+#Watch2{
+	padding:90px;
+	text-align:center;
+}
+
+#background{
+	background-size: cover;
+    background-attachment: fixed;
+}
+.Watch{
+	text-align:center;
+}
